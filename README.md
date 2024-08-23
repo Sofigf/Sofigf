@@ -2,7 +2,7 @@
 - 👀 I’m interested in Tech Development
 - 🌱 I’m currently learning Instrumentation, which integrates both software and hardware
 - 💞️ I’m looking to collaborate on Automation Tech
-- 📫 Reach me via email at gitafsofi@gmail.com or LinkedIn: linkedin.com/in/sofigitafirnanda
+- 📫 Reach me via email at gitafsofi@gmail.com or LinkedIn: [hlinkedin.com/in/sofigitafirnanda ](https://www.linkedin.com/in/sofigitafirnanda)
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I received the “Best Mentee of Hardware Engineer” award during my certified internship program at PT Stechoq Robotika Indonesia!
 
